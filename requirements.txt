@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+requests==2.31.0
+beautifulsoup4==4.12.3
+rich==13.7.1
+dnspython==2.6.1
+python-whois==0.9.4
+tldextract==5.1.2
+phonenumbers==8.13.37
+anthropic==0.26.1
+pydantic==2.7.1
